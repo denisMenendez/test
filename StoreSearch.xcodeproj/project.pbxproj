@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3960907F21F860A400F76A1F /* NothingFoundCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3960907E21F860A400F76A1F /* NothingFoundCell.xib */; };
+		3960908121F8949700F76A1F /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3960908021F8949700F76A1F /* LoadingCell.xib */; };
 		39A0E44E21F7776200F23220 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A0E44D21F7776200F23220 /* SearchResult.swift */; };
 		39A0E45321F77FB900F23220 /* SearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A0E45121F77FB900F23220 /* SearchResultCell.swift */; };
 		39A0E45421F77FB900F23220 /* SearchResultCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39A0E45221F77FB900F23220 /* SearchResultCell.xib */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		3960907E21F860A400F76A1F /* NothingFoundCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NothingFoundCell.xib; sourceTree = "<group>"; };
+		3960908021F8949700F76A1F /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
 		39A0E44D21F7776200F23220 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 		39A0E45121F77FB900F23220 /* SearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultCell.swift; sourceTree = "<group>"; };
 		39A0E45221F77FB900F23220 /* SearchResultCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchResultCell.xib; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				39A0E45121F77FB900F23220 /* SearchResultCell.swift */,
 				39A0E45221F77FB900F23220 /* SearchResultCell.xib */,
 				3960907E21F860A400F76A1F /* NothingFoundCell.xib */,
+				3960908021F8949700F76A1F /* LoadingCell.xib */,
 			);
 			path = StoreSearch;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			files = (
 				39A526D721F713F200F3A993 /* LaunchScreen.storyboard in Resources */,
 				39A526D421F713F200F3A993 /* Assets.xcassets in Resources */,
+				3960908121F8949700F76A1F /* LoadingCell.xib in Resources */,
 				39A0E45421F77FB900F23220 /* SearchResultCell.xib in Resources */,
 				3960907F21F860A400F76A1F /* NothingFoundCell.xib in Resources */,
 				39A526D221F713F000F3A993 /* Main.storyboard in Resources */,
