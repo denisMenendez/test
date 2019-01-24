@@ -21,6 +21,7 @@ class SearchViewController: UIViewController {
     var searchResults = [SearchResult]()
     var hasSearched = false
     var isLoading = false
+    var str = "str"
     
     override func viewDidLoad() {
         super.viewDidLoad()
